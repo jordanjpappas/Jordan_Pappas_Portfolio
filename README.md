@@ -1,5 +1,5 @@
-# Jordan_Pappas_Portfolio
-data science portfolio
+# Hi! My name is Jordan Pappas.
+Welcome to my data science portfolio.
 
 
 # [Project 1: Regression](insert link here)
