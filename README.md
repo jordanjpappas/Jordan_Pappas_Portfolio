@@ -22,7 +22,7 @@ Welcome to my data science portfolio.
 *
 *
 
-# [Project 5: Data Visualization](https://github.com/jordanjpappas/Opioid_Dynamics)
+# [Project 5: U.S. Drug-Related Disorders Data Visualization](https://github.com/jordanjpappas/Opioid_Dynamics)
 *
 *
 *
