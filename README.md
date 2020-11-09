@@ -16,6 +16,8 @@ Welcome to my data science portfolio.
 *
 *
 *
+![](https://github.com/jordanjpappas/Jordan_Pappas_Portfolio/blob/master/images/allCategoryMap.png)
+![](https://github.com/jordanjpappas/Jordan_Pappas_Portfolio/blob/master/images/clusterplot3.png)
 
 # [Project 4: Deep Learning](insert link here)
 *
@@ -26,3 +28,6 @@ Welcome to my data science portfolio.
 *
 *
 *
+![](https://github.com/jordanjpappas/Jordan_Pappas_Portfolio/blob/master/images/Figure_(2)%20copy.png)
+
+
