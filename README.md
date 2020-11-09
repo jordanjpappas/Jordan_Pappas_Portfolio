@@ -12,12 +12,17 @@ Welcome to my data science portfolio.
 *
 *
 
-# [Project 3: Clustering](insert link here)
+# [Project 3: U.S. Oil & Gas Development Clustering](https://github.com/jordanjpappas/Oil_Gas_Cluster_Analysis)
 *
 *
 *
 
 # [Project 4: Deep Learning](insert link here)
+*
+*
+*
+
+# [Project 5: Data Visualization](https://github.com/jordanjpappas/Opioid_Dynamics)
 *
 *
 *
