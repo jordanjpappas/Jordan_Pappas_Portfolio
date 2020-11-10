@@ -18,6 +18,7 @@ Welcome to my data science portfolio. I am an emerging data scientist trained in
 <br /> • Imported natural gas data in CSV format containing 1 million rows. Write R scripts to clean data usingpackages like dplyr, reshape2, tidyverse.
 <br /> • Apply machine learning algorithms such as finite mixture and clustering models using FlexMix package.
 <br /> • Prepare research paper for publication using ggplot2, LaTeX.
+
 ![](/images/allCategoryMap.png)
 ![](/images/clusterplot3.png)
 
@@ -25,6 +26,7 @@ Welcome to my data science portfolio. I am an emerging data scientist trained in
 *
 *
 *
+
 ![](/images/Figure_(7)_2.png)
 
 # [Project 5: U.S. Drug-Related Disorders Data Visualization](https://github.com/jordanjpappas/Opioid_Dynamics)
