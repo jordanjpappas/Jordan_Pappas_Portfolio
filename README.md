@@ -28,5 +28,5 @@ Welcome to my data science portfolio. I am an emerging data scientist trained in
 *
 *
 *
-![](/images/Figure_(2)%20copy.png)
+![](/images/Figure_(2).png)
 
