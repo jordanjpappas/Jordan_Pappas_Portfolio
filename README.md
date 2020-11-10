@@ -27,8 +27,6 @@ Welcome to my data science portfolio. I am an emerging data scientist trained in
 *
 *
 
-![](/images/Figure_(7)_2.png)
-
 # [Project 5: U.S. Drug-Related Disorders Data Visualization](https://github.com/jordanjpappas/Opioid_Dynamics)
 “Dynamics in drug-related disorders from 1999-2018 in the U.S.”
 <br /> • Examine drug abuse in non-drug overdose deaths in US mortality database from 1999 – 2018.
