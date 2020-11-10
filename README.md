@@ -36,4 +36,4 @@ Welcome to my data science portfolio. I am an emerging data scientist trained in
 <br /> • Estimate from data analysis suggests severity of drug abuse in non-drug overdoses from 1999 to 2018was 20% higher than current estimates.
 <br /> • Prepare research paper for publication using ggplot2, LaTeX.
 
-![](/images/Figure_(7)_2.png)
+![](/images/https://github.com/jordanjpappas/Jordan_Pappas_Portfolio/blob/master/images/Figure_(2).png)
