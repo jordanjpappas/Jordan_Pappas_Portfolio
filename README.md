@@ -1,5 +1,5 @@
 # Hi! My name is Jordan Pappas.
-Welcome to my data science portfolio.
+Welcome to my data science portfolio. I am an emerging data scientist trained in identifying strategic opportunities to provide business value, and I am driven to build data-driven stories to propel organizations forward.
 
 
 # [Project 1: Regression](insert link here)
