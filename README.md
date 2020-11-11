@@ -17,7 +17,7 @@ Welcome to my data science portfolio. I am an emerging data scientist trained in
 <br /> • Study geographic development of oil and gas industry across US using cluster finite mixture models fit to county-level time series data.
 <br /> • Imported natural gas data in CSV format containing 1 million rows. Write R scripts to clean data using packages like dplyr, reshape2, tidyverse.
 <br /> • Apply machine learning algorithms such as finite mixture and clustering models using FlexMix package.
-<br /> • Prepare research paper for publication using ggplot2, LaTeX.
+<br /> • Prepare research paper for publication using ggplot2, Microsoft Word.
 
 ![](/images/allCategoryMap.png)
 ![](/images/clusterplot3.png)
