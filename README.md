@@ -1,7 +1,7 @@
 # Hi! My name is Jordan Pappas.
 Welcome to my data science portfolio. I am an emerging data scientist trained in identifying strategic opportunities to provide business value, and I am driven to build data-driven stories to propel organizations forward.
 
-# [Pending Publication: U.S. Oil & Gas Development Clustering](https://github.com/jordanjpappas/Oil_Gas_Cluster_Analysis)
+# [U.S. Oil & Gas Development Clustering (Pending Publication)](https://github.com/jordanjpappas/Oil_Gas_Cluster_Analysis)
 “Stylized Trends in 21st Century US Onshore Oil and Gas Drilling Geography from Cluster Analysis.”
 
 - Jordan Pappas, University of Rochester
@@ -17,7 +17,7 @@ Welcome to my data science portfolio. I am an emerging data scientist trained in
 
 
 
-# [Pending Publication: U.S. Drug-Related Disorders Data Visualization](https://github.com/jordanjpappas/Opioid_Dynamics)
+# [U.S. Drug-Related Disorders Data Visualization (Pending Publication)](https://github.com/jordanjpappas/Opioid_Dynamics)
 “Dynamics in drug-related disorders from 1999-2018 in the U.S.”
 
 - Jordan Pappas, University of Rochester
