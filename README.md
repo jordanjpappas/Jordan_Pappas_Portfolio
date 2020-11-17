@@ -12,8 +12,8 @@ Welcome to my data science portfolio. I am an emerging data scientist trained in
 <br /> • Apply machine learning algorithms such as finite mixture and clustering models using FlexMix package.
 <br /> • Prepare research paper for publication using ggplot2, Microsoft Word.
 
-![](/images/allCategoryMap.png)
-![](/images/clusterplot3.png)
+![](/images/O&G-cluster_maps.png)
+![](/images/O&G-cluster_plots.png)
 
 
 
