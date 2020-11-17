@@ -14,6 +14,7 @@ The last two decades have witnessed revolutionary changes in America’s upstrea
 <br /> • Apply machine learning algorithms such as finite mixture and clustering models using FlexMix package.
 <br /> • Prepare research paper for publication using ggplot2, Microsoft Word.
 
+
 ![](/images/O&G-cluster_maps.png)
 ![](/images/O&G-cluster_plots.png)
 
@@ -33,5 +34,6 @@ Yet, drug overdose deaths are only a fraction of all deaths associated with drug
 <br /> • Collected CDC mortality dataset in RDS format containing 200,000 rows. Cleaned in R using packages like dplyr, reshape2, tidyverse.
 <br /> • Estimate from data analysis suggests severity of drug abuse in non-drug overdoses from 1999 to 2018 was 20% higher than current estimates.
 <br /> • Prepare research paper for publication using ggplot2, LaTeX.
+
 
 ![](/images/Figure_(2).png)
