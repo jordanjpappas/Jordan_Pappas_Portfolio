@@ -25,26 +25,13 @@ The last two decades have witnessed revolutionary changes in America’s upstrea
 - Jordan Pappas, University of Rochester
 - Andrew Boslett, University of Rochester
 
+The U.S. is currently in the midst of a drug overdose epidemic. In 2018, 3.6% of the U.S. population misused prescription pain relievers, and there were 67,376 drug overdose deaths, more than X times the count in 1999. As the scale of the epidemic has grown, there has been a corresponding increase in the academic literature on drug overdose deaths, with studies highlighting trends in drug overdoses across time and space and characteristics of drug overdose decedents. 
+
+Yet, drug overdose deaths are only a fraction of all deaths associated with drug use. People die from drug-related disorders, which reflect long-term addiction and behavior change due to drug use. In this paper, we fill a gap in the literature by describing trends in drug-related disorders in the U.S. from 1999 to 2018. We identify trends nationally and by state, focusing on areas with large relative changes in deaths involving drug-related disorders over time. We examine trends in drug-related disorders by drug class, with a particular focus on opioid-related disorders. We describe demographic and socio-economic characteristics of decedents of drug-related disorders and compare them to those of decedents from drug overdoses. 
+
 <br /> • Examine drug abuse in non-drug overdose deaths in US mortality database from 1999 – 2018.
 <br /> • Collected CDC mortality dataset in RDS format containing 200,000 rows. Cleaned in R using packages like dplyr, reshape2, tidyverse.
 <br /> • Estimate from data analysis suggests severity of drug abuse in non-drug overdoses from 1999 to 2018 was 20% higher than current estimates.
 <br /> • Prepare research paper for publication using ggplot2, LaTeX.
 
 ![](/images/Figure_(2).png)
-
-
-
-# [Project 1: Regression](insert link here)
-*
-*
-*
-
-# [Project 2: Classification](insert link here)
-*
-*
-*
-
-# [Project 4: Deep Learning](insert link here)
-*
-*
-*
