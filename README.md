@@ -1,6 +1,10 @@
 # Hi! My name is Jordan Pappas. Welcome to my data science portfolio. 
 I am an emerging data scientist/product manager trained in identifying strategic opportunities to provide business value, and I am driven to build data-driven stories to propel organizations forward. My academic research background is in health economics, and some of my pending publications are detailed below.
 
+
+
+
+
 # [U.S. Oil & Gas Development Clustering (Pending Publication)](https://github.com/jordanjpappas/Oil_Gas_Cluster_Analysis)
 “Stylized Trends in 21st Century US Onshore Oil and Gas Drilling Geography from Cluster Analysis.”
 
