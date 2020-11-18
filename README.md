@@ -3,6 +3,7 @@ I am an emerging data scientist/product manager trained in identifying strategic
 
 
 <br />
+<br />
 
 
 # [U.S. Oil & Gas Development Clustering (Pending Publication)](https://github.com/jordanjpappas/Oil_Gas_Cluster_Analysis)
