@@ -2,7 +2,7 @@
 I am an emerging data scientist/product manager trained in identifying strategic opportunities to provide business value, and I am driven to build data-driven stories to propel organizations forward. My academic research background is in health economics, and some of my pending publications are detailed below.
 
 
-
+<br />
 
 
 # [U.S. Oil & Gas Development Clustering (Pending Publication)](https://github.com/jordanjpappas/Oil_Gas_Cluster_Analysis)
